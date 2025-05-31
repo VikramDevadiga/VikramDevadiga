@@ -46,7 +46,7 @@ Currently building innovative and scalable solutions while pursuing my engineeri
 ## 🌐 Connect with Me
 
 - 📧 Email: [devadigavikram1@gmail.com](mailto:devadigavikram1@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/vikramdevadiga](https://linkedin.com/in/vikramdevadiga) *(add your actual profile link)*  
+- 🔗 LinkedIn: [linkedin.com/in/vikramdevadiga](https://linkedin.com/in/vikramdevadiga)
 - 🐙 GitHub: [@vikramdevadiga](https://github.com/vikramdevadiga)  
 
 ---
