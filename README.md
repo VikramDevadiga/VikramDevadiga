@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vikram Devadiga</h1>
-<h3 align="center">Flutter Developer | AI & ML Enthusiast | SIH 2024 & 2025 Winner</h3>
+<h3 align="center">Flutter Developer | AI & ML Enthusiast | SIH 2024 Winner</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vikramdevadiga&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
@@ -89,7 +89,6 @@
 <h2>🏆 Achievements</h2>
 
 <ul>
-  <li>🥇 Winner – Smart India Hackathon (SIH) 2025</li>
   <li>🥇 Winner – Smart India Hackathon (SIH) 2024</li>
   <li>🥇 Winner (2×) – College-Level UI/UX & Flutter Competitions</li>
   <li>🥈 Runner-Up – College-Level IoT Project Competition</li>
