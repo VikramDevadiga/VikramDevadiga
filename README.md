@@ -13,7 +13,7 @@
   <li>🎓 B.E. Computer Science & Engineering (AI & ML)</li>
   <li>📱 Flutter Developer with Firebase expertise</li>
   <li>🤖 Passionate about AI, Computer Vision, and Real-World Problem Solving</li>
-  <li>🏆 Winner – Smart India Hackathon 2024 & 2025</li>
+  <li>🏆 Winner – Smart India Hackathon 2024</li>
   <li>🌱 Currently building scalable mobile applications and AI-powered solutions</li>
 </ul>
 
